@@ -6,5 +6,5 @@
 - Jupiter Notebook 
 - Uso de librerias de Tensorflow y Numpy
 
-# Estos son códigos para práctica y estudio de una red neuronal para clasificar imágenes con Python.
+## Estos son códigos para práctica y estudio de una red neuronal para clasificar imágenes con Python.
 
